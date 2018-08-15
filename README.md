@@ -42,6 +42,7 @@ unityagents
 The agent has "solved" the environment if it achieves a consecutive 100-game average score of 13 or higher within 1800 games.
 
 ## Usage
+Extract the Banana_Windows_x86_64 folder.
 All code is contained in the ipynb notebook.
 
 #### To train from scratch:
