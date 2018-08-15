@@ -9,23 +9,29 @@ Written using Python 3 and Pytorch.
 Uses Double Q-Learning written in Pytorch. For further info on Double Q-Networks (DDQN): https://arxiv.org/pdf/1509.06461.pdf
 
 ## The Environment
-### State Space
+#### State Space
 Uses a state with 37 numeric features derived from ray tracing (rather than pixel inputs).
 
-### Action Space
+#### Action Space
 4 possible actions (0, 1, 2, 3) corresponding with the moving forward, backward, and rotating left and right.
 
-### Scoring
+#### Scoring
 +1 for moving into a yellow banana
+
 -1 for moving into a blue banana
+
 0 elsewhere
 
-##### Custom Scoring
+
+###### Custom Scoring
 +1 for moving into a yellow banana
+
 -1 for moving into a blue banana
+
 -0.03 elsewhere
 
-### Termination
+
+#### Termination
 The game terminates once the agent has performed 300 actions.
 
 ## Dependencies
