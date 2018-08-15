@@ -1,4 +1,4 @@
-# Pytorch_Unity_Navigation_DeepRL
+# Pytorch_DDQN_Unity_Navigation
 Deep Reinforcement Learning.
 
 Uses Unity-ML Banana Navigation environment: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector
