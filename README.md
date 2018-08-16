@@ -66,4 +66,4 @@ DDQN_run().run_saved_model()
 Note: Must have weights saved as checkpoint.pth.
 
 ## Further details
-View report.pdf to view an explanation of the implementation.
+View report.ipynb to view an explanation of the implementation.
