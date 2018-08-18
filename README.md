@@ -1,7 +1,7 @@
 # Pytorch_DDQN_Unity_Navigation
 Deep Reinforcement Learning.
 
-![](agent.gif)
+![](agent2.gif)
 
 Uses Unity-ML Banana Navigation environment: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector
 
@@ -57,6 +57,9 @@ All code is contained in the ipynb notebook.
 ```
 DDQN_run().train()
 ```
+
+![](agent.gif)
+
 If the agent solves the environment, weights are saved (included) as checkpoint.pth
 
 #### To load saved weights and watch a game:
