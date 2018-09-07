@@ -3,7 +3,7 @@ Deep Reinforcement Learning.
 
 ![](agent2.gif)
 
-Above: First person view of a Reinforcement Learning agent collecting yellow bananas while avoiding blue banans.
+Shown above: First person view of a Reinforcement Learning agent collecting yellow bananas while avoiding blue bananas.
 
 Uses Unity-ML Banana Navigation environment: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector
 
